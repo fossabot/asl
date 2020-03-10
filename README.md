@@ -18,6 +18,7 @@ Whenever you want, run `asl-timelapse` to create timelapses in `$HOME/asl-summar
 ### Example output
 
 ![example](asl-example.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskuzzymiglet%2Fasl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskuzzymiglet%2Fasl?ref=badge_shield)
 
 See also `asl-example.webm`
 
@@ -30,3 +31,7 @@ See also `asl-example.webm`
  - [ ] AUR Package
  - [ ] Automatic archive zipping 
  - [ ] Timelapse from archive
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskuzzymiglet%2Fasl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskuzzymiglet%2Fasl?ref=badge_large)
